@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tathagata17
+- 👋 Hi, I’m @Tathagata Nayak
 - 👀 I’m interested in making useful projects 
 - 🌱 I’m currently learning nextjs
 - 💞️ I’m looking to collaborate on ...
